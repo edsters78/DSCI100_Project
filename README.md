@@ -1,2 +1,2 @@
 # Project Proposal
-Authors: Edwin Yeung, Yifei Xia, Malachy Montemurro
+<br> everything is in the notebook
